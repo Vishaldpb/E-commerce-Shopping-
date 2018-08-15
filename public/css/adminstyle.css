@@ -1,0 +1,49 @@
+#imgPreview{
+    margin : 20px
+}
+
+.noimage{
+height: 100px;
+width : 100px;
+}
+
+ul.gallery {
+    padding: 0;
+}
+
+ul.gallery li:first-child {
+    margin-left: 0;
+}
+
+ul.gallery li {
+    margin: 20px;
+    display: inline-block;
+    list-style: none;
+}
+
+table.alignmiddle td{
+    vertical-align: middle !important
+}
+
+.aaa{
+    background-color: #ced6e0;
+}
+
+.navbar {
+    background-color: #2c3e50;
+    font-style: italic;
+    
+    
+}
+
+.footer{
+    background-color: black;
+   
+    font-style: italic;
+    color: #ffffff;
+
+}
+
+a {
+    font-style: italic;
+}
